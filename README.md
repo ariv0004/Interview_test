@@ -22,4 +22,4 @@ Import the Luxury Loan Portfolio into pandas dataframes and use Plotly dash to c
 - Second is the map of new yorkers payment based on Building Class Category by find the coordinate and create a map
 - Third is Box plot load balance based on employment length we will see that is there any connection between the year of experience and load balance.
 
-using this filter we will create a dashboard usingh dash.
+using this filter we will create a dashboard using dash.
